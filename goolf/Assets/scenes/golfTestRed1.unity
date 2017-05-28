@@ -86,7 +86,7 @@ LightmapSettings:
     m_PVRFilteringAtrousColorSigma: 1
     m_PVRFilteringAtrousNormalSigma: 1
     m_PVRFilteringAtrousPositionSigma: 1
-  m_LightingDataAsset: {fileID: 112000002, guid: 57903a05e176f12448f3d5cfbd8a0f05,
+  m_LightingDataAsset: {fileID: 112000002, guid: 3a62a590c90cc894a994bc6de7503824,
     type: 2}
   m_ShadowMaskMode: 2
 --- !u!196 &4
@@ -251,7 +251,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 330988411}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -0.03999996, y: -0.421, z: 10.59}
+  m_LocalPosition: {x: -0.03999996, y: -0.511, z: 10.59}
   m_LocalScale: {x: 1, y: 1, z: 1.3430386}
   m_Children: []
   m_Father: {fileID: 0}
@@ -978,7 +978,7 @@ MeshRenderer:
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
   m_Materials:
-  - {fileID: 2100000, guid: 37cf42ef481d4824a99a6cf38d323e81, type: 2}
+  - {fileID: 2100000, guid: b2b2542cca04bf342a534413bb13d321, type: 2}
   m_StaticBatchInfo:
     firstSubMesh: 0
     subMeshCount: 0
