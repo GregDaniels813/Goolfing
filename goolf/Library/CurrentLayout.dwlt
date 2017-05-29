@@ -45,7 +45,7 @@ MonoBehaviour:
   m_MinSize: {x: 683, y: 492}
   m_MaxSize: {x: 14004, y: 14042}
   vertical: 0
-  controlID: 70
+  controlID: 80
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -91,8 +91,8 @@ MonoBehaviour:
     y: 0
     width: 379
     height: 573
-  m_MinSize: {x: 202, y: 221}
-  m_MaxSize: {x: 4002, y: 4021}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 16}
   m_Panes:
   - {fileID: 16}
@@ -211,7 +211,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 492}
   m_MaxSize: {x: 10002, y: 14042}
   vertical: 1
-  controlID: 71
+  controlID: 81
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -235,7 +235,7 @@ MonoBehaviour:
   m_MinSize: {x: 406, y: 221}
   m_MaxSize: {x: 8006, y: 4021}
   vertical: 0
-  controlID: 72
+  controlID: 82
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -306,6 +306,60 @@ MonoBehaviour:
     tree:
       entries: []
       entryCommitTargets:
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
+      - All: 0
       - All: 0
       - All: 0
       - All: 0
@@ -1427,19 +1481,19 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 0
     m_Folders:
-    - Assets/scenes
+    - Assets/scripts
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/scenes
+  - Assets/scripts
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Greg\Documents\Goolfing\goolf
   m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 6e250000
-    m_LastClickedID: 9582
-    m_ExpandedIDs: 00000000ea24000000ca9a3bffffff7f
+    m_SelectedIDs: be250000
+    m_LastClickedID: 9662
+    m_ExpandedIDs: 00000000ea2400007425000000ca9a3bffffff7f
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1585,26 +1639,26 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 728affff8291ffff4494ffffa2adffff1eb1ffff4ce2ffffe4fbffff00000000
+    m_ExpandedIDs: b850ffffe07affffe0fbffffe2fbffffe4fbffff0000000026260000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: a
+      m_OriginalName: a
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 0
+      m_UserData: 9766
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 0
       m_ClientGUIView: {fileID: 4}
     m_SearchString: 
   m_ExpandedScenes:
-  - golfTest2
+  - galaxyMapTest1
   m_CurrenRootInstanceID: 0
   m_Locked: 0
   m_CurrentSortingName: TransformSorting
@@ -1635,14 +1689,14 @@ MonoBehaviour:
     width: 1148
     height: 552
   m_SceneLighting: 1
-  lastFramingTime: 2181.075272753074
+  lastFramingTime: 18943.079395203215
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 0.018705655, y: -0.34302217, z: 10.656639}
+    m_Target: {x: -4.2617188, y: 0.85058594, z: -7.4560547}
     speed: 2
-    m_Value: {x: 0.018705655, y: -0.34302217, z: 10.656639}
+    m_Value: {x: -4.2617188, y: 0.85058594, z: -7.4560547}
   m_RenderMode: 0
   m_ValidateTrueMetals: 0
   m_SceneViewState:
@@ -1665,17 +1719,17 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-    m_Target: {x: -0.06895853, y: 0.22312927, z: -0.015827242, w: -0.97222626}
+    m_Target: {x: 0.09882912, y: -0.66025484, z: 0.08826742, w: 0.7392691}
     speed: 2
-    m_Value: {x: -0.06895797, y: 0.22312747, z: -0.015827114, w: -0.9722184}
+    m_Value: {x: 0.09882845, y: -0.66025037, z: 0.08826683, w: 0.7392641}
   m_Size:
-    m_Target: 27.683517
+    m_Target: 23.859133
     speed: 2
-    m_Value: 27.683517
+    m_Value: 23.859133
   m_Ortho:
-    m_Target: 0
+    m_Target: 1
     speed: 2
-    m_Value: 0
+    m_Value: 1
   m_LastSceneViewRotation: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}

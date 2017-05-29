@@ -16,7 +16,8 @@ public class camControl : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
 		
-        GetComponent<Rigidbody>().velocity = new Vector3 (0, 0, ballObj.GetComponent<Rigidbody>().velocity.z);
+        GetComponent<Rigidbody>().velocity = new Vector3 (ballObj.GetComponent<Rigidbody>().velocity.x, 0, ballObj.GetComponent<Rigidbody>().velocity.z);
+        transform.LookAt(ballObj);
 
         if (Input.GetAxis("Mouse ScrollWheel") > 0)
         {

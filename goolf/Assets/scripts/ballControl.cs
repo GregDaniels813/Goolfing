@@ -24,7 +24,7 @@ public class ballControl : MonoBehaviour {
 
     void OnTriggerEnter(Collider other)
     {
-        if (other.name == "cup")
+        if (other.name.StartsWith("cup"))
         {
             GetComponent<Rigidbody>().velocity = new Vector3(0, 0, 0);
             Debug.Log("Completed");
