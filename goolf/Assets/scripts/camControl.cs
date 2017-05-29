@@ -5,7 +5,7 @@ using UnityEngine;
 public class camControl : MonoBehaviour {
 
     public Transform ballObj;
-
+    public Transform pivotObj;
 	// Use this for initialization
 	void Start () {
 
